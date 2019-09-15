@@ -1,2 +1,2 @@
 # Exploratory_Data_Analysis
-Response for exercices 
+Answers to all graph exercises and R codes
